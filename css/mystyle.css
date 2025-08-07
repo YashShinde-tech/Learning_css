@@ -32,4 +32,35 @@
 }  
 .text_height{
     line-height : 25px; 
-}                                                    
+}
+.text_shadow{
+    font-size: 50px;
+    text-align: center;
+    color: black;
+    text-shadow: 10px 4px 5px gray;
+}
+.text_shadow{
+    font-size: 80px;
+    text-align: center;
+    color: crimson;
+    text-shadow: 20px 5px 5px cornsilk; 
+
+}
+.b_prop1{
+            border: 6px double red;
+        }
+.b_prop2{
+            border: 6px dashed black;
+        }
+ .b_prop3{
+            border: 6px dotted blue;
+        }
+.b_prop4{
+            border: 6px solid green;
+        }
+.b_prop5{
+            border: 6px inset yellow;
+        }
+.b_prop6{
+            border: 6px outset blueviolet;
+        }                                                    
